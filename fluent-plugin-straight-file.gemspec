@@ -1,7 +1,7 @@
 # coding: utf-8
 Gem::Specification.new do |gem|
   gem.name          = "fluent-plugin-straight-file"
-  gem.version       = "0.0.1"
+  gem.version       = "0.0.5"
   gem.authors       = ["Alexey Panaetov"]
   gem.email         = ["panaetovaa@gmail.com"]
   gem.description   = %q{}
