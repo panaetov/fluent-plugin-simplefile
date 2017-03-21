@@ -8,7 +8,7 @@ require 'fluent/config/error'
 
 module Fluent
   class FileStraightOutput < BufferedOutput
-    Plugin.register_output('file_straight', self)
+    Plugin.register_output('simplefile', self)
 
     desc "The Path of the file."
     config_param :path, :string
